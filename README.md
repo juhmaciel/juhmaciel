@@ -1,7 +1,5 @@
 # Olá, Dev! 👋
-
 ## Meu nome é Juliana, mas pode me chamar de Juh.
-
 <div>
 <a href="https://github.com/juhmaciel">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhmaciel&layout=compact&langs_count=7&theme=dracula"/>
@@ -9,7 +7,6 @@
 </div>
 <br>
 <br>
-
   <div>
   <b>Contatos:</b><br>
 <a href="https://instagram.com/juhmaciel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
