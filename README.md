@@ -1,77 +1,114 @@
+<!-- Juliana Maciel | GitHub Profile README -->
+
 <div align="center">
 
-![](https://img.shields.io/badge/-Juliana%20Maciel-3a3a3a?style=for-the-badge&labelColor=3a3a3a&color=3a3a3a)
+# Juliana Maciel
 
-<h1><font color="#f4b8c8">Juliana Maciel</font></h1>
+**AI Support Analyst · Customer Experience · Análise de Dados**
 
-![](https://img.shields.io/badge/desenvolvedora%20web-3a3a3a?style=flat-square&logoColor=f4b8c8)
-![](https://img.shields.io/badge/Rio%20de%20Janeiro-3a3a3a?style=flat-square&logo=googlemaps&logoColor=f4b8c8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-juhmaciel-c9a4b4?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/juhmaciel)
+[![Instagram](https://img.shields.io/badge/Instagram-juhmaciel-c9a4b4?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/juhmaciel)
+[![Gmail](https://img.shields.io/badge/Email-macieljulian@gmail.com-c9a4b4?style=flat-square&logo=gmail&logoColor=white)](mailto:macieljulian@gmail.com)
+[![Localização](https://img.shields.io/badge/Rio%20de%20Janeiro-RJ-c9a4b4?style=flat-square&logo=googlemaps&logoColor=white)]()
 
+</div>
+
+---
+
+## sobre mim
+
+Profissional com mais de **6 anos de experiência** em Customer Experience, Suporte Técnico N2 e Liderança de Equipes.
+Atualmente como **AI Support Analyst**, combinando inteligência artificial com atendimento especializado.
+Cursando pós-graduação em **Product Management**, com foco em estratégia orientada a dados e experiência do cliente.
+
+---
+
+## experiência
+
+**AI Support Analyst** · Cloud Humans · *ago 2025 — presente*
+> Suporte especializado com uso de IA para otimização do atendimento · Melhoria de fluxos automatizados · Interface com times de produto e tecnologia
+
+**Team Leader de Atendimento Tech** · Isaac · *nov 2024 — jul 2025*
+> Liderança de equipe de suporte técnico · Gestão de SLAs e KPIs via dashboards · Feedback 1:1 e desenvolvimento do time
+
+**Analista de Operações II – Tech** · Isaac · *nov 2023 — out 2024*
+> Análise de dados operacionais · Otimização de fluxos de atendimento · Relatórios e dashboards em Power BI e Excel
+
+**Analista de Operações I – Tech** · Isaac · *abr 2023 — out 2023*
+> Atendimento técnico N2 · Resolução de chamados complexos · Documentação de processos e base de conhecimento
+
+**Analista de CX** · Isaac · *jan 2022 — mar 2023*
+> Atendimento via Zendesk com foco em FCR · Suporte a operações com análises em Excel
+
+**Financial Analyst** · IPmedia · *nov 2020 — jul 2022*
+> Análise de receita/despesa · Auditoria de pagamentos · Gestão e contestação de chargebacks
+
+---
+
+## skills
+
+<div align="center">
+
+**CX & Suporte**
+
+![Zendesk](https://img.shields.io/badge/Zendesk-c9a4b4?style=flat-square&logo=zendesk&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-c9a4b4?style=flat-square&logo=jira&logoColor=white)
+![SLA/OLA](https://img.shields.io/badge/SLA%20%2F%20OLA-c9a4b4?style=flat-square&logoColor=white)
+![Reclame Aqui](https://img.shields.io/badge/Reclame%20Aqui-c9a4b4?style=flat-square&logoColor=white)
+
+**Dados & Análise**
+
+![SQL](https://img.shields.io/badge/SQL-c9a4b4?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-c9a4b4?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-c9a4b4?style=flat-square&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel%20Avançado-c9a4b4?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**IA & Produto**
+
+![IA Aplicada](https://img.shields.io/badge/IA%20Aplicada%20ao%20Suporte-c9a4b4?style=flat-square&logoColor=white)
+![Product Management](https://img.shields.io/badge/Product%20Management-c9a4b4?style=flat-square&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-c9a4b4?style=flat-square&logo=scrumalliance&logoColor=white)
+![QA](https://img.shields.io/badge/QA-c9a4b4?style=flat-square&logoColor=white)
+
+**Dev**
+
+![HTML5](https://img.shields.io/badge/HTML5-c9a4b4?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-c9a4b4?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-c9a4b4?style=flat-square&logo=javascript&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-c9a4b4?style=flat-square&logo=jupyter&logoColor=white)
+
+</div>
+
+---
+
+## formação
+
+📚 **Pós-graduação em Product Management** · em andamento
+
+💻 **Desenvolvimento Web** · ElasNaTech · 2023
+
+🐍 **Python** · projetos práticos no GitHub
+
+---
+
+## estatísticas
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=juhmaciel&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=fdf6f8&title_color=c9a4b4&text_color=555555&icon_color=c9a4b4"/>
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhmaciel&layout=compact&langs_count=6&hide_border=true&bg_color=fdf6f8&title_color=c9a4b4&text_color=555555"/>
+
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=juhmaciel&hide_border=true&background=fdf6f8&ring=c9a4b4&fire=c9a4b4&currStreakLabel=c9a4b4&sideLabels=c9a4b4&currStreakNum=555555&sideNums=555555&dates=aaaaaa" height="160"/>
 </div>
 
 <br>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=17&pause=2000&color=f4b8c8&center=true&vCenter=true&width=500&lines=Sou+o+extremo.+Nunca+o+meio+termo.;Nunca+o+morno.+Nunca+o+coma.)](https://git.io/typing-svg)
+*"Sou o extremo. Nunca o meio termo. Nunca o morno. Nunca o coma."*
 
 </div>
-
-<br>
-
----
-
-### sobre mim
-
-```
-localizacao   ->  Rio de Janeiro, RJ
-foco atual    ->  Desenvolvimento Web
-aprendendo    ->  sempre algo novo
-movida a      ->  cafe e curiosidade
-```
-
----
-
-### estatisticas
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=juhmaciel&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=3a3a3a&title_color=f4b8c8&text_color=e8cdd2&icon_color=d4919f&ring_color=d4919f"/>
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhmaciel&layout=compact&langs_count=6&hide_border=true&bg_color=3a3a3a&title_color=f4b8c8&text_color=e8cdd2"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=juhmaciel&hide_border=true&background=3a3a3a&ring=d4919f&fire=f4b8c8&currStreakLabel=f4b8c8&sideLabels=f4b8c8&currStreakNum=f4b8c8&sideNums=e8cdd2&dates=b89aa0&stroke=555555" height="165"/>
-
-</div>
-
----
-
-### stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-3a3a3a?style=flat-square&logo=html5&logoColor=f4b8c8)
-![CSS3](https://img.shields.io/badge/CSS3-3a3a3a?style=flat-square&logo=css3&logoColor=f4b8c8)
-![JavaScript](https://img.shields.io/badge/JavaScript-3a3a3a?style=flat-square&logo=javascript&logoColor=f4b8c8)
-![Python](https://img.shields.io/badge/Python-3a3a3a?style=flat-square&logo=python&logoColor=f4b8c8)
-![Jupyter](https://img.shields.io/badge/Jupyter-3a3a3a?style=flat-square&logo=jupyter&logoColor=f4b8c8)
-
-</div>
-
----
-
-### contato
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/instagram-3a3a3a?style=flat-square&logo=instagram&logoColor=f4b8c8)](https://instagram.com/juhmaciel)
-[![Email](https://img.shields.io/badge/e--mail-3a3a3a?style=flat-square&logo=microsoftoutlook&logoColor=f4b8c8)](mailto:juhmaciel@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-3a3a3a?style=flat-square&logo=linkedin&logoColor=f4b8c8)](https://www.linkedin.com/in/juhmaciel)
-
-</div>
-
-<br>
