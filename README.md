@@ -1,89 +1,76 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1,ffd6e0,ffadc7&height=200&section=header&text=Olá,%20eu%20sou%20a%20Juh!%20🌸&fontSize=40&fontColor=c2638a&fontAlignY=38&animation=fadeIn&desc=Desenvolvedora%20apaixonada%20por%20tecnologia%20%26%20design&descFontColor=d4879e&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=2d1b2e,4a2040,6b3a5c&height=180&section=header&text=Juliana%20Maciel&fontSize=52&fontColor=f2d4e8&fontAlignY=55&desc=desenvolvedora%20%C2%B7%20Rio%20de%20Janeiro&descFontColor=c9a0bc&descSize=16&animation=fadeIn" width="100%"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=E8819A&center=true&vCenter=true&width=600&lines=Bem-vinda+ao+meu+cantinho+no+GitHub!+🌷;Apaixonada+por+código+e+por+café+☕;Nunca+o+extremo.+Nunca+o+meio+termo!+💕)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=18&pause=2000&color=c9a0bc&center=true&vCenter=true&width=500&lines=Sou+o+extremo.+Nunca+o+meio+termo.;Nunca+o+morno.+Nunca+o+coma.)](https://git.io/typing-svg)
 
 </div>
+
+<br>
 
 ---
 
-<div align="center">
-
-### 🌸 Sobre mim
-
-</div>
-
-<table align="center">
-<tr>
-<td>
+### sobre mim
 
 ```
-🏙️ Rio de Janeiro, RJ
-💻 Desenvolvedora Web
-🎓 Sempre aprendendo algo novo
-☕ Movida a café e curiosidade
-🚴 Pedalando pela vida
-💖 "Sou o extremo. Nunca o meio termo."
+localizacao   ->  Rio de Janeiro, RJ
+foco atual    ->  Desenvolvimento Web
+aprendendo    ->  sempre algo novo
+movida a      ->  cafe e curiosidade
 ```
 
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhmaciel&layout=compact&langs_count=7&bg_color=fff0f5&title_color=c2638a&text_color=d4879e&border_color=ffb6c1&border_radius=15" height="170"/>
-
-</td>
-</tr>
-</table>
-
 ---
+
+### estatisticas
 
 <div align="center">
 
-### 💕 Minhas Estatísticas
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=juhmaciel&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a0a1a&title_color=c9a0bc&text_color=d4b8cc&icon_color=9b6b8a&ring_color=6b3a5c"/>
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhmaciel&layout=compact&langs_count=6&hide_border=true&bg_color=1a0a1a&title_color=c9a0bc&text_color=d4b8cc"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=juhmaciel&show_icons=true&bg_color=fff0f5&title_color=c2638a&text_color=d4879e&icon_color=e8819a&border_color=ffb6c1&border_radius=15&include_all_commits=true&count_private=true" height="170"/>
+</div>
 
-<img src="https://streak-stats.demolab.com/?user=juhmaciel&background=fff0f5&ring=e8819a&fire=c2638a&currStreakLabel=c2638a&border=ffb6c1&currStreakNum=d4879e&sideLabels=d4879e&sideNums=d4879e&dates=d4879e&border_radius=15" height="170"/>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=juhmaciel&hide_border=true&background=1a0a1a&ring=9b6b8a&fire=c9a0bc&currStreakLabel=c9a0bc&sideLabels=c9a0bc&currStreakNum=f2d4e8&sideNums=f2d4e8&dates=7a5a70&stroke=6b3a5c" height="160"/>
 
 </div>
 
 ---
 
+### stack
+
 <div align="center">
 
-### 🌷 Me encontra por aí!
-
-[![Instagram](https://img.shields.io/badge/Instagram-ffb6c1?style=for-the-badge&logo=instagram&logoColor=c2638a)](https://instagram.com/juhmaciel)
-[![Gmail](https://img.shields.io/badge/Gmail-ffd6e0?style=for-the-badge&logo=gmail&logoColor=c2638a)](mailto:juhmaciel@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffadc7?style=for-the-badge&logo=linkedin&logoColor=c2638a)](https://www.linkedin.com/in/juhmaciel)
+![HTML5](https://img.shields.io/badge/HTML5-2d1b2e?style=flat-square&logo=html5&logoColor=c9a0bc)
+![CSS3](https://img.shields.io/badge/CSS3-2d1b2e?style=flat-square&logo=css3&logoColor=c9a0bc)
+![JavaScript](https://img.shields.io/badge/JavaScript-2d1b2e?style=flat-square&logo=javascript&logoColor=c9a0bc)
+![Python](https://img.shields.io/badge/Python-2d1b2e?style=flat-square&logo=python&logoColor=c9a0bc)
+![Jupyter](https://img.shields.io/badge/Jupyter-2d1b2e?style=flat-square&logo=jupyter&logoColor=c9a0bc)
 
 </div>
 
 ---
 
+### contato
+
 <div align="center">
 
-### 🛠️ Tecnologias que uso
-
-![HTML5](https://img.shields.io/badge/HTML5-fff0f5?style=for-the-badge&logo=html5&logoColor=c2638a)
-![CSS3](https://img.shields.io/badge/CSS3-ffd6e0?style=for-the-badge&logo=css3&logoColor=c2638a)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffb6c1?style=for-the-badge&logo=javascript&logoColor=c2638a)
-![Python](https://img.shields.io/badge/Python-ffadc7?style=for-the-badge&logo=python&logoColor=c2638a)
-![Jupyter](https://img.shields.io/badge/Jupyter-ffd6e0?style=for-the-badge&logo=jupyter&logoColor=c2638a)
+[![Instagram](https://img.shields.io/badge/instagram-2d1b2e?style=flat-square&logo=instagram&logoColor=c9a0bc)](https://instagram.com/juhmaciel)
+[![Email](https://img.shields.io/badge/e--mail-2d1b2e?style=flat-square&logo=microsoftoutlook&logoColor=c9a0bc)](mailto:juhmaciel@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-2d1b2e?style=flat-square&logo=linkedin&logoColor=c9a0bc)](https://www.linkedin.com/in/juhmaciel)
 
 </div>
 
----
+<br>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1,ffd6e0,ffadc7&height=120&section=footer&animation=fadeIn"/>
-
-*feito com 💖 e muito café*
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=2d1b2e,4a2040,6b3a5c&height=80&section=footer&animation=fadeIn" width="100%"/>
 </div>
