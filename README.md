@@ -23,28 +23,6 @@ Cursando pós-graduação em **Product Management**, com foco em estratégia ori
 
 ---
 
-## experiência
-
-**AI Support Analyst** · Cloud Humans · *ago 2025 — presente*
-> Suporte especializado com uso de IA para otimização do atendimento · Melhoria de fluxos automatizados · Interface com times de produto e tecnologia
-
-**Team Leader de Atendimento Tech** · Isaac · *nov 2024 — jul 2025*
-> Liderança de equipe de suporte técnico · Gestão de SLAs e KPIs via dashboards · Feedback 1:1 e desenvolvimento do time
-
-**Analista de Operações II – Tech** · Isaac · *nov 2023 — out 2024*
-> Análise de dados operacionais · Otimização de fluxos de atendimento · Relatórios e dashboards em Power BI e Excel
-
-**Analista de Operações I – Tech** · Isaac · *abr 2023 — out 2023*
-> Atendimento técnico N2 · Resolução de chamados complexos · Documentação de processos e base de conhecimento
-
-**Analista de CX** · Isaac · *jan 2022 — mar 2023*
-> Atendimento via Zendesk com foco em FCR · Suporte a operações com análises em Excel
-
-**Financial Analyst** · IPmedia · *nov 2020 — jul 2022*
-> Análise de receita/despesa · Auditoria de pagamentos · Gestão e contestação de chargebacks
-
----
-
 ## skills
 
 <div align="center">
